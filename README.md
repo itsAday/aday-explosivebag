@@ -10,3 +10,6 @@ Basic script that lets people place bomb bags and explode them.
 4. Ensure aday-bolsabomba script into your server.cfg.
 5. Import SQL file from aday-bolsabomba into your database.
 6. Enjoy!
+
+# Demo
+https://www.youtube.com/watch?v=CtETUtOYaP4
